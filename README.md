@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bibinpeter
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on MObile app development using Fluter
 - 📫 How to reach me bibinpeter2018@gmail.com
 
 <!---
