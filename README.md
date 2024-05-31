@@ -1,14 +1,27 @@
 <div align="center">
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Anmol_Codes.svg?style=social&label=Follow%20%40Anmol_Codes)](https://twitter.com/Anmol_Codes)
 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />   GIFs For Readme   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love markdown badge"></a> <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a>
 
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> 
-@@ -219,7 +221,7 @@
+Welcome to GIFs For Readme
+Hello! My name is Bibin, and I am a Flutter developer. I have curated some awesome GIFs that you can use to enhance your GitHub README files. Make your project stand out with these eye-catching animations!
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting 🔝
+If you found this useful, please consider giving a star ⭐ on the GitHub repository.
 
+<img src="https://user-images.githubusercontent.com/74038190/219295839-b30b5a72-6f91-4dc1-8e23-81cce7d62f6d.png" width="30" /> Connect with Me
+Follow me on Twitter: @Anmol_Codes
+Connect on LinkedIn: Anmol Baranwal
+Visit my portfolio: anmol.codes
+<img src="https://user-images.githubusercontent.com/74038190/215755773-15424f73-ef26-4bba-a606-2bdc6ff64cdd.png" width="30" /> More Projects
+Flutter Widgets
+Awesome Flutter Tips
+Flutter UI Challenges
+Thank you for stopping by! Feel free to explore and use the GIFs in your own projects.
 
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-by-developers.svg" width="160" alt="built by developers badge"></a>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
+</div>
