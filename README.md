@@ -1,46 +1,38 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  Welcome to Rishav Chanda's GitHub
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0WJb9zf4ZC5t32u0zTVYludbBW0igV-4Jn66fEb7iyjdjKHxH9UKU4NvjpEC0BEOubI&usqp=CAU" width="130" alt="made with love markdown badge">
-  </a>
+<h1 align="center">Hi 👋, I'm Bibin peter</h1>
+<h3 align="center">A passionate self-taught Flutter developer</h3>
 
-  <br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibinpeter&label=Profile%20views&color=0e75b6&style=flat" alt="bibinpeter" /> </p>
 
-  👋 Hi there! I'm Rishav Chanda
+- 🔭 I’m currently working on **E-commerce app using Bloc**
 
-  I'm a passionate Flutter Developer with a love for creating beautiful, high-performance mobile applications. My journey with Flutter has been an exciting adventure of learning, building, and innovating.
+- 🌱 I’m currently learning **Flutter,Dart**
 
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-  <br><br>
+- 💬 Ask me about **Flutter Mobile App Development**
 
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting 🔝
+- 📫 How to reach me **bibinpeter2018@gmail.com**
 
-  If you found this useful, please consider giving a star ⭐ on the GitHub repository.
+- ⚡ Fun fact **I think i am funny**
 
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/219295839-b30b5a72-6f91-4dc1-8e23-81cce7d62f6d.png" width="30" /> Connect with Me
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-  <a href="mailto:rishavchanda0@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/email.png" width="30px" />
-  </a> Email: rishavchanda0@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bibin-peter-33493a2a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibin-peter-33493a2a0/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/bibin.peter.108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bibin.peter.108/" height="30" width="40" /></a>
+<a href="https://instagram.com/bibin peter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibin peter" height="30" width="40" /></a>
+<a href="https://www.behance.net/bibin peter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bibin peter" height="30" width="40" /></a>
+<a href="https://medium.com/@bibinpeter2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bibinpeter2018" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/bibinpeter2018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bibinpeter2018/" height="30" width="40" /></a>
+<a href="https://discord.gg/bibin peter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bibin peter" height="30" width="40" /></a>
+</p>
 
-  <a href="https://www.linkedin.com/in/rishav-chanda-b89a791b3">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30px" />
-  </a> LinkedIn: Rishav Chanda
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-  <a href="https://twitter.com/rishav_chanda">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="30px" />
-  </a> Twitter: @rishav_chanda
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibinpeter&show_icons=true&locale=en&layout=compact" alt="bibinpeter" /></p>
 
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/215755773-15424f73-ef26-4bba-a606-2bdc6ff64cdd.png" width="30" /> More Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibinpeter&show_icons=true&locale=en" alt="bibinpeter" /></p>
 
-  - Flutter Widgets
-  - Awesome Flutter Tips
-  - Flutter UI Challenges
-  <br>
-  Thank you 
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibinpeter&" alt="bibinpeter" /></p>
