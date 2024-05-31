@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Welcome to Bibin's GitHub <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Welcome to Bibin's GitHub <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0WJb9zf4ZC5t32u0zTVYludbBW0igV-4Jn66fEb7iyjdjKHxH9UKU4NvjpEC0BEOubI&usqp=CAU" width="130" alt="made with love markdown badge"></a>
 
 <br><br>
@@ -11,21 +10,24 @@ I'm a passionate Flutter Developer with a love for creating beautiful, high-perf
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting 🔝
-
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--welcome-to-bibin's-github--)
 If you found this useful, please consider giving a star ⭐ on the GitHub repository.
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/219295839-b30b5a72-6f91-4dc1-8e23-81cce7d62f6d.png" width="30" /> Connect with Me
+<img src="https://user-images.githubusercontent.com/74038190/219295839-b30b5a72-6f91-4dc1-8e23-81cce7d62f6d.png" width="30" /> Connect with Me
+<a href="mailto:bibinpleter2018@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png" width="30px"/></a> Email: bibinpleter2018@gmail.com
 
-Email: bibinpleter2018@gmail.com
-Twitter: @Anmol_Codes
-LinkedIn: Anmol Baranwal
-Portfolio: anmol.codes
+<a href="https://twitter.com/Anmol_Codes"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="30px"/></a> Twitter: @Anmol_Codes
+
+<a href="https://www.linkedin.com/in/anmol-baranwal"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30px"/></a> LinkedIn: Anmol Baranwal
+
+<a href="https://anmol.codes"><img src="https://img.icons8.com/fluent/48/000000/internet.png" width="30px"/></a> Portfolio: anmol.codes
+
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/215755773-15424f73-ef26-4bba-a606-2bdc6ff64cdd.png" width="30" /> More Projects
-
+<img src="https://user-images.githubusercontent.com/74038190/215755773-15424f73-ef26-4bba-a606-2bdc6ff64cdd.png" width="30" /> More Projects
 Flutter Widgets
 Awesome Flutter Tips
 Flutter UI Challenges
 <br>
+Thank you for stopping by! Feel free to explore and use the GIFs in your own projects.
+</div>
