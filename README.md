@@ -21,7 +21,7 @@ If you found this useful, please consider giving a star ⭐ on the GitHub reposi
 <a href="mailto:bibinpleter2018@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png" width="30px" /></a> Email: bibinpeter2018@gmail.com
 
  
-<a href="[https://www.linkedin.com/in/anmol-baranwal](https://www.linkedin.com/in/bibin-peter-33493a2a0/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30px" /></a> LinkedIn: Anmol Baranwal
+<a href="[https://www.linkedin.com/in/bibin-peter-33493a2a0/]"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30px" /></a> LinkedIn: Anmol Baranwal
 
  
 <br>
