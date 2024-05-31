@@ -1,11 +1,11 @@
 <div align="center">
 
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />   GIFs For Readme   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />welcome to Bibin's GitGub<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love markdown badge"></a> <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a>
 
-Welcome to GIFs For Readme
-Hello! My name is Bibin, and I am a Flutter developer. I have curated some awesome GIFs that you can use to enhance your GitHub README files. Make your project stand out with these eye-catching animations!
+ 👋 Hi there! I'm Bibin
+I'm a passionate Flutter Developer with a love for creating beautiful, high-performance mobile applications. My journey with Flutter has been an exciting adventure of learning, building, and innovating.
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
